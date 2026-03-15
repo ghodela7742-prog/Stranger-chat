@@ -1,0 +1,5 @@
+{
+  "name": "StrangerChat",
+  "description": "A minimal, anonymous real-time chat app for connecting with strangers worldwide.",
+  "requestFramePermissions": []
+}
